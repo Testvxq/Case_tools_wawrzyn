@@ -9,8 +9,8 @@ const char* AP_SSID = "ESP32_DEV";
 const char* AP_PWD  = "12345678";
 
 // ADRESY
-const char* OPEN_URL  = "http://192.168.4.1/open";
-const char* CLOSE_URL = "http://192.168.4.1/close";
+const char* OPEN_URL  = "http://192.168.4.1/close";
+const char* CLOSE_URL = "http://192.168.4.1/open";
 
 // WIEGAND
 WIEGAND wg;
